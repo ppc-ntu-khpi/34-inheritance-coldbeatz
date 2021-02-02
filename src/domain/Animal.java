@@ -8,10 +8,10 @@ public class Animal {
 	protected int weight;
 	
 	public Animal() {
-        name = "gerenic animal";
-        age = 0;
-        weight = 1;
-    }
+		name = "gerenic animal";
+		age = 0;
+		weight = 1;
+	}
 	
 	public void speak() {
 		System.out.println("Animal speaking...");
