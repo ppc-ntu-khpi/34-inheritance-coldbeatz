@@ -3,8 +3,8 @@
 
 Для прикладу я змоделював **звичайнісінького кота**😉
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/cat.jpg" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-coldbeatz/blob/master/images/content_17025.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-coldbeatz/blob/master/images/Bird-Diagram.png" width="100%"/>
 
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
