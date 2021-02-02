@@ -1,10 +1,9 @@
 # Практична робота "Реалізація успадкування"
-Цей репозиторій містить приклад виконання та інструкції для виконання практичної роботи з наслідування в JAVA. 
 
-Для прикладу я змоделював **звичайнісінького кота**😉
+Було змодельовано птицю **Bird**😉
 
-<img src="https://github.com/ppc-ntu-khpi/34-inheritance-coldbeatz/blob/master/images/content_17025.jpg" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/34-inheritance-coldbeatz/blob/master/images/Bird-Diagram.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-coldbeatz/blob/master/images/content_17025.jpg"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-coldbeatz/blob/master/images/Bird-Diagram.png"/>
 
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
